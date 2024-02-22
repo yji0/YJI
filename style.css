@@ -1,7 +1,7 @@
 body{
   text-align: center;
   font-family: 'Times New Roman', Times, serif;
-  font-size: 26px;
+  font-size: 26ph;
   color: black;
   background-image:url('aa.jpg')
 }
@@ -25,28 +25,28 @@ font-style: italic;
 }
 
 .dd{
-margin-left:60%;
-margin-right: 30%;
+margin-left:60ph;
+margin-right: 30ph;
 }
 
 header {
     background-color: #333;
-    padding: 10%;
+    padding: 10ph;
 }
 
 .barra-navegacao {
     display: flex;
     justify-content: space-around;
     list-style: none;
-    margin: 0%;
-    padding: 0%;
+    margin: 0ph;
+    padding: 0ph;
 }
 
 .barra-navegacao a {
     text-decoration: none;
     color: white;
-    padding: 10%;
-    border-radius: 5%;
+    padding: 10ph;
+    border-radius: 5ph;
 }
 
 .barra-navegacao a:hover {
